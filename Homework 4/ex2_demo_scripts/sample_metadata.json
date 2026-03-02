@@ -1,0 +1,20 @@
+{
+  "part_name": "Example COTS regulator",
+  "manufacturer": "ExampleSemi",
+  "lot_code_plain": "LOT-2026-02-ABC",
+  "standards": [
+    "JEDEC"
+  ],
+  "documents": {
+    "datasheet": "ipfs://bafy...datasheet",
+    "pcn": "ipfs://bafy...pcn",
+    "radiation_report": "ipfs://bafy...radreport"
+  },
+  "radiation_summary": {
+    "tid_krad": 30,
+    "see_tested": true,
+    "pass": true,
+    "test_house": "LabX",
+    "test_date": "2026-02-20"
+  }
+}
